@@ -1,5 +1,9 @@
 # Familiar_Strangers
 
+Familiar Strangers is a project that uses Social Network Analysis and Graph Neural Networks to identify shared skills and interests among university 500+ students.
+The goal is to facilitate cross-disciplinary collaborations and project partnerships, demonstrating the potential of machine learning and graph analysis techniques in educational settings.
+
+
 This repository contains scripts and data for analyzing student information, including academic interests, club memberships, extracurricular activities, and research projects. The project aims to provide insights into students' academic and extracurricular engagement.
 
 ## Contents
